@@ -34,4 +34,9 @@ This section will be used to get to know more about your area of interest. For e
 * Data Science
 * Mobile Development with React Native
 
+#### Hartina Cleon
+* Fullstack web development
+* Cybersecurity
+* Cloud computing
+
 Use the template above to include your own content
